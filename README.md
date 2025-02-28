@@ -1,4 +1,3 @@
-# Weather Widget
+# WEATHER FORECAST
 
-React
-Material UI
+# Material UI

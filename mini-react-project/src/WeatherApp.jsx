@@ -10,7 +10,7 @@ export default function WeatherApp() {
         temp: 25.05,
         tempMin: 25.05,
         tempMax: 25.05,
-        humidity:47,
+        humidity: 47,
         weather: "haze",
     });
 
@@ -21,7 +21,7 @@ export default function WeatherApp() {
 
     return (
         <div className="weatherApp">
-            <h2><b>Weather</b></h2>
+            <h2><b>Weather App</b></h2>
             <SearchBox updateinfo={updateinfo}/>
             <InfoBox info={weatherInfo}/>
         </div>
